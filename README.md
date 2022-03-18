@@ -23,7 +23,8 @@ In order to follow the tutorials we suggest to create a new python environment (
 
 ```
 conda create --name QCday python=3.8
-conda install pip notebook matplotlib 
+conda activate QCday
+conda install pip jupyter matplotlib 
 ```
 
 and the quantum computing libraries
