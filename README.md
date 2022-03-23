@@ -1,7 +1,7 @@
 # Hands-on Quantum Computing @ beSharp
 This repository contains the code for the hands-on session of the Quantum Computing workshop at beSharp.   
 
-The code is developed by Francesco Scala and Stefano Mangini (PhD stuents @ University of Pavia). 
+The code is developed by [Francesco Scala](https://it.linkedin.com/in/fran-scala) and [Stefano Mangini](https://it.linkedin.com/in/stfnmangini) (PhD stuents @ University of Pavia). 
 
 The hands-on session is divided in two parts: 
 
